@@ -1,0 +1,10 @@
+D:\C#\软件构造基础\Assignment1.2\bin\Debug\Assignment1.2.exe.config
+D:\C#\软件构造基础\Assignment1.2\bin\Debug\Assignment1.2.exe
+D:\C#\软件构造基础\Assignment1.2\bin\Debug\Assignment1.2.pdb
+D:\C#\软件构造基础\Assignment1.2\obj\Debug\Assignment1.2.csproj.AssemblyReference.cache
+D:\C#\软件构造基础\Assignment1.2\obj\Debug\Assignment1._2.Form1.resources
+D:\C#\软件构造基础\Assignment1.2\obj\Debug\Assignment1._2.Properties.Resources.resources
+D:\C#\软件构造基础\Assignment1.2\obj\Debug\Assignment1.2.csproj.GenerateResource.cache
+D:\C#\软件构造基础\Assignment1.2\obj\Debug\Assignment1.2.csproj.CoreCompileInputs.cache
+D:\C#\软件构造基础\Assignment1.2\obj\Debug\Assignment1.2.exe
+D:\C#\软件构造基础\Assignment1.2\obj\Debug\Assignment1.2.pdb

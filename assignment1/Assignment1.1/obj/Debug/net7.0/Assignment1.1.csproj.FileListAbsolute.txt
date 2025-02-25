@@ -1,0 +1,14 @@
+D:\C#\软件构造基础\Assignment1.1\bin\Debug\net7.0\Assignment1.1.exe
+D:\C#\软件构造基础\Assignment1.1\bin\Debug\net7.0\Assignment1.1.deps.json
+D:\C#\软件构造基础\Assignment1.1\bin\Debug\net7.0\Assignment1.1.runtimeconfig.json
+D:\C#\软件构造基础\Assignment1.1\bin\Debug\net7.0\Assignment1.1.dll
+D:\C#\软件构造基础\Assignment1.1\bin\Debug\net7.0\Assignment1.1.pdb
+D:\C#\软件构造基础\Assignment1.1\obj\Debug\net7.0\Assignment1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\软件构造基础\Assignment1.1\obj\Debug\net7.0\Assignment1.1.AssemblyInfoInputs.cache
+D:\C#\软件构造基础\Assignment1.1\obj\Debug\net7.0\Assignment1.1.AssemblyInfo.cs
+D:\C#\软件构造基础\Assignment1.1\obj\Debug\net7.0\Assignment1.1.csproj.CoreCompileInputs.cache
+D:\C#\软件构造基础\Assignment1.1\obj\Debug\net7.0\Assignment1.1.dll
+D:\C#\软件构造基础\Assignment1.1\obj\Debug\net7.0\refint\Assignment1.1.dll
+D:\C#\软件构造基础\Assignment1.1\obj\Debug\net7.0\Assignment1.1.pdb
+D:\C#\软件构造基础\Assignment1.1\obj\Debug\net7.0\Assignment1.1.genruntimeconfig.cache
+D:\C#\软件构造基础\Assignment1.1\obj\Debug\net7.0\ref\Assignment1.1.dll
